@@ -6,7 +6,7 @@ The non-profit foundation Alphabet Soup aims to develop an algorithm that can pr
 
 You have been provided with a CSV file containing over 34,000 organizations that have received funding from Alphabet Soup. This dataset includes various columns capturing metadata about each organization, such as:
 
-$$
+
 
 EIN and NAME—Identification columns
 
@@ -30,7 +30,7 @@ ASK_AMT—Funding amount requested
 
 IS_SUCCESSFUL—Was the money used effectively
 
-$$
+
 
 Instructions
 
