@@ -6,6 +6,7 @@ The non-profit foundation Alphabet Soup aims to develop an algorithm that can pr
 
 You have been provided with a CSV file containing over 34,000 organizations that have received funding from Alphabet Soup. This dataset includes various columns capturing metadata about each organization, such as:
 
+$$
 EIN and NAME—Identification columns
 APPLICATION_TYPE—Alphabet Soup application type
 AFFILIATION—Affiliated sector of industry
@@ -17,7 +18,10 @@ INCOME_AMT—Income classification
 SPECIAL_CONSIDERATIONS—Special consideration for application
 ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
+$$
+
 Instructions
+
 Step 1: Preprocess the Data
 
 Using Pandas and Scikit-Learn’s StandardScaler(), preprocess the dataset to prepare for compiling, training, and evaluating the neural network model in Step 2.
